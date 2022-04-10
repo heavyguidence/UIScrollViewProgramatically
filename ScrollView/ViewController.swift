@@ -66,7 +66,8 @@ class ViewController: UIViewController {
         textField.returnKeyType = .next
         textField.layer.cornerRadius = 20
         textField.layer.masksToBounds = true
-        //  textField.setLeftPaddingPoints(20)
+        //set custom padding on the left side
+        textField.setLeftPaddingPoints(20)
         return textField
     }()
     
@@ -82,7 +83,7 @@ class ViewController: UIViewController {
         textField.returnKeyType = .done
         textField.layer.cornerRadius = 20
         textField.layer.masksToBounds = true
-        // textField.setLeftPaddingPoints(20)
+        textField.setLeftPaddingPoints(20)
         
         return textField
     }()
