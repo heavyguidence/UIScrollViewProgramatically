@@ -7,3 +7,5 @@ This tutorial is for the beginners who have been using the storyboard for ios de
 
 Leave a comment in the comment section below as I am always looking for the feedback. Don't forget to subscribe the channel.  
 Enjoy.
+
+![screenshot](https://user-images.githubusercontent.com/39800824/162644943-d9c9b918-800e-4777-95b7-dbf697f65ede.png)
